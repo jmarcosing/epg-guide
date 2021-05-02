@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LAS ESTRELLAS">
+    <display-name lang="es">LAS ESTRELLAS</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210501010000 -0500" stop="20210501043000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210501043000 -0500" stop="20210501050000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20210501050000 -0500" stop="20210501053000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20210501053000 -0500" stop="20210501060000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20210501060000 -0500" stop="20210501063000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20210501063000 -0500" stop="20210501084500 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Cri cri el grillito cantor</title>
+  </programme>
+  <programme start="20210501084500 -0500" stop="20210501110000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Seguiré tus pasos</title>
+  </programme>
+  <programme start="20210501110000 -0500" stop="20210501130000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Cuéntamelo Ya</title>
+  </programme>
+  <programme start="20210501130000 -0500" stop="20210501144500 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Se equivoco la cigueña</title>
+  </programme>
+  <programme start="20210501144500 -0500" stop="20210501170000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">El padrecito</title>
+  </programme>
+  <programme start="20210501170000 -0500" stop="20210501190000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Tu Cara Me Suena</title>
+  </programme>
+  <programme start="20210501190000 -0500" stop="20210501193000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210501193000 -0500" stop="20210501220000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">No manches Frida</title>
+  </programme>
+  <programme start="20210501220000 -0500" stop="20210501224000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Megabox El Templo TUDN</title>
+  </programme>
+  <programme start="20210501224000 -0500" stop="20210501233000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">Andy Ruiz vs. Chris Arreola</title>
+  </programme>
+  <programme start="20210501233000 -0500" stop="20210502010000 -0500" channel="LAS ESTRELLAS">
+    <title lang="es">El dragón</title>
+  </programme>
+</tv>
